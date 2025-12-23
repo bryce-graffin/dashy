@@ -128,6 +128,8 @@ const COMPAT = {
   weather: 'Weather',
   'weather-forecast': 'WeatherForecast',
   'xkcd-comic': 'XkcdComic',
+  'hello-world': 'HelloWorld',
+  'streaming-launcher': 'StreamingLauncher',
 };
 
 export default {
